@@ -1,4 +1,4 @@
-# ✈️ Flight Status Dashboard
+# ✈️ Flight Status Dashboard#
 
 An interactive Power BI dashboard analysing flight performance across U.S. airlines — covering delays, cancellations, on-time rates, and airline/airport comparisons.
 
@@ -93,4 +93,4 @@ The data used in this project was sourced from **[Maven Analytics](https://www.m
 - **Microsoft Power BI** — for the visualisation platform
 
 
-*Built as a data analytics portfolio project.*
+**Built as a data analytics portfolio project.**
