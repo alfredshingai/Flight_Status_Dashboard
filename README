@@ -4,12 +4,6 @@ An interactive Power BI dashboard analysing flight performance across U.S. airli
 
 ---
 
-## 📊 Dashboard Preview
-
-![Flight Status Dashboard](Flight_Status_Dashboard.png)
-
----
-
 ## 📈 Key Metrics
 
 | Metric | Value |
@@ -98,12 +92,5 @@ The data used in this project was sourced from **[Maven Analytics](https://www.m
 - **[Maven Analytics](https://www.mavenanalytics.io/)** — for the flight status dataset used in this project
 - **Microsoft Power BI** — for the visualisation platform
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 *Built as a data analytics portfolio project.*
