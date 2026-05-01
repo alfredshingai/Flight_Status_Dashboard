@@ -1,29 +1,29 @@
-# ✈️ Flight Status Dashboard
+#  Flight Status Dashboard
 
 An interactive Power BI dashboard analysing flight performance across U.S. airlines — covering delays, cancellations, on-time rates, and airline/airport comparisons.
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Flight Status Dashboard](Flight_Status_Dashboard.png)
 
 ---
 
-## 📈 Key Metrics
+##  Key Metrics
 
 | Metric | Value |
 |--------|-------|
-| ✈️ Total Flights | 2M |
-| ⏱️ Delayed Flights | 790K |
-| ❌ Cancelled Flights | 29K |
-| ✅ On-Time Rate | 58% |
-| ⏳ Delay Rate | 41% |
-| 🚫 Cancellation Rate | 1% |
+|  Total Flights | 2M |
+|  Delayed Flights | 790K |
+|  Cancelled Flights | 29K |
+|  On-Time Rate | 58% |
+|  Delay Rate | 41% |
+|  Cancellation Rate | 1% |
 
 ---
 
-## 🖥️ Dashboard Features
+##  Dashboard Features
 
 - **KPI Cards** — At-a-glance totals for flights, delays, and cancellations with sparkline trends
 - **Total Flights by City** — Horizontal bar chart ranking the busiest U.S. cities; Atlanta leads at 0.35M, followed by Chicago (0.29M) and Dallas-Fort Worth (0.24M)
@@ -34,7 +34,7 @@ An interactive Power BI dashboard analysing flight performance across U.S. airli
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 flight-status-dashboard/
@@ -50,7 +50,7 @@ flight-status-dashboard/
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -61,15 +61,15 @@ flight-status-dashboard/
 
 ---
 
-## 📦 Data Source
+##  Data Source
 
 The data used in this project was sourced from **[Maven Analytics](https://www.mavenanalytics.io/)** — a platform offering high-quality, real-world datasets for data analysis practice and portfolio projects.
 
-> 📌 Full credit to **Maven Analytics** for providing the dataset. Please refer to their website for data usage terms.
+>  Full credit to **Maven Analytics** for providing the dataset. Please refer to their website for data usage terms.
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - Over **2 million flights** were analysed, with **41% experiencing delays** and only **1% cancelled**
 - **Atlanta, Chicago, and Dallas-Fort Worth** are the busiest airports by total flight volume
@@ -79,7 +79,7 @@ The data used in this project was sourced from **[Maven Analytics](https://www.m
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free) — latest version recommended
@@ -93,16 +93,10 @@ The data used in this project was sourced from **[Maven Analytics](https://www.m
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - **[Maven Analytics](https://www.mavenanalytics.io/)** — for the flight status dataset used in this project
 - **Microsoft Power BI** — for the visualisation platform
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
